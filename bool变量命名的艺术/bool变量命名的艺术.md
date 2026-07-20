@@ -1,5 +1,7 @@
 # 布尔变量命名的艺术
 
+> 💡 **译者注**：本文翻译自国外优秀技术博客，原文链接：[Stop Naming Your Variables "flag" — The Art of Boolean Prefixes][original-article]。
+
 良好的布尔值（Boolean）命名能够让代码实现“自解释”，大幅提升可读性。以下是关于布尔变量命名与处理的佳实践指南。
 
 ---
@@ -85,3 +87,15 @@ export.Execute(new ExportOptions {
     JustDrop = false
 });
 ```
+
+---
+
+## 📄 声明与版权
+
+* **原文标题**：Stop Naming Your Variables "flag" — The Art of Boolean Prefixes
+* **文章作者**：ThatAmazingProgrammer
+* **原文链接**：[点击阅读原文][original-article]
+
+> ⚠️ **声明**：本篇译文基于原作者文章进行翻译与排版优化，版权归原作者所有。商业转载请联系原作者获得授权。
+
+[original-article]: https://thatamazingprogrammer.com/posts/stop-naming-your-variables-flag-the-art-of-boolean-prefixes/
